@@ -1,4 +1,4 @@
-Project Title
+Project Title :
 Waze User Churn Prediction & Behavioral Driver Analysis Using Binomial Logistic Regression
 Project Overview
 This project analyzes user engagement and driving behavior data from 14,299 active Waze users to uncover the primary drivers of customer attrition (17.7% churned vs. 82.3% retained). Following the PACE (Plan, Analyze, Construct, Execute) data analytics workflow, a binomial logistic regression model was developed to quantify how app usage frequency, driving distance, user tenure, and device platform influence retention, providing Waze leadership with actionable, data-driven retention strategies.
